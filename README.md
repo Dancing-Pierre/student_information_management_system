@@ -1,0 +1,2 @@
+# student_information_management_system
+C++编写的学生信息管理系统，有着基本的增删改查功能，学生信息存储在txt文件中
